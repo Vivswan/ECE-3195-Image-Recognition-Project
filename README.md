@@ -1,4 +1,4 @@
-# ECE 3195 Course Project
+# HyperParameter Optimization with VGG
 
 ---
 
